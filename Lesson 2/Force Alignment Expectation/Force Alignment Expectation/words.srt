@@ -1,0 +1,39 @@
+1
+00:00:00,000 --> 00:00:04,760
+Thank you for choosing,
+the olympus dictation management system.
+
+2
+00:00:04,760 --> 00:00:09,640
+The olympus dictation management,
+system gives you the power to manage your dictations,
+
+3
+00:00:09,640 --> 00:00:15,960
+transcriptions and documents seemlesly,
+and to improve the productivity of your daily work.
+
+4
+00:00:15,960 --> 00:00:19,600
+For example you can
+automatically send files,
+
+5
+00:00:19,600 --> 00:00:25,680
+or transcribe documents to your,
+asistant of the author via email or ftp.
+
+6
+00:00:25,680 --> 00:00:31,600
+If you are using speech recognition software the,
+speech recognition engine works at the background
+
+7
+00:00:31,600 --> 00:00:34,360
+to support for your document creation.
+
+8
+00:00:34,360 --> 00:00:40,320
+We hope you enjoy the simple, flexible,
+reliable and secure solution from olympus.
+
